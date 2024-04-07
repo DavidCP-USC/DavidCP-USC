@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is David and I'm studing a Computer Engineering Degree at the Universisty of Santiago de Compostela (USC)</h2>
 
 ###
 
@@ -20,11 +20,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DavidCP-USC/DavidCP-USC/output/snake.svg" alt="Snake animation" />
-
-###
